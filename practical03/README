@@ -1,0 +1,4 @@
+The command to compile these 2 programs:-
+
+gcc -o print_ex print_ex.c
+gcc -lm -o practical3 practical3.c
