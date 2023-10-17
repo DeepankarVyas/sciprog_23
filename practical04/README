@@ -1,0 +1,3 @@
+The command to run the file is
+
+gcc -lm -o practical4 practical4.c
