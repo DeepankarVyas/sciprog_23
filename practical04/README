@@ -1,3 +1,9 @@
 The command to run the file is
 
 gcc -lm -o practical4 practical4.c
+
+Output: 
+Your approximation of the integral from x=0 degrees to x = 60 degrees of the function tan(x) with respect to x is:
+0.69504
+The exact solution is :
+0.69315
