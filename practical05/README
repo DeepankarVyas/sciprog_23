@@ -1,0 +1,45 @@
+The code to rum the 3 files are:
+
+practical5_scanf.c
+gcc -o practical5_scanf practical5_scanf.c
+The output is:-
+
+Enter an int and double
+2
+2.3
+Value of int and double is 2 and 2.30 repectively
+
+practical5_1.c
+gcc -o practical5_1 practical5_1.c
+The output is:-
+
+Enter the value of n
+5
+The fibonacci sequence is 
+0 , 1 ,1 , 2 , 3 ,
+
+practical 5_2.c
+gcc -lm -o practical5_2 practical5_2.c
+The output is:-
+
+Enter the precision for the Maclaurin series:
+0.1
+The difference at x=-0.900000 between them is 0.1427933610.
+The difference at x=-0.800000 between them is 0.0624096220.
+The difference at x=-0.700000 between them is 0.0193531944.
+The difference at x=-0.600000 between them is 0.0211471806.
+The difference at x=-0.500000 between them is 0.0076394777.
+The difference at x=-0.400000 between them is 0.0023155969.
+The difference at x=-0.300000 between them is 0.0005196042.
+The difference at x=-0.200000 between them is 0.0000658874.
+The difference at x=-0.100000 between them is 0.0000020144.
+The difference at x=-0.000000 between them is 0.0000000000.
+The difference at x=0.100000 between them is 0.0003353477.
+The difference at x=0.200000 between them is 0.0000658874.
+The difference at x=0.300000 between them is 0.0005196042.
+The difference at x=0.400000 between them is 0.0023155969.
+The difference at x=0.500000 between them is 0.0076394777.
+The difference at x=0.600000 between them is 0.0211471806.
+The difference at x=0.700000 between them is 0.0193531944.
+The difference at x=0.800000 between them is 0.0624096220.
+The difference at x=0.900000 between them is 0.1427933610.
