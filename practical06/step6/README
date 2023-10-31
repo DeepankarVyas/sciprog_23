@@ -1,0 +1,25 @@
+The commands to compile and  run the files:-
+
+gcc -c main.c
+gcc -c matmult.c
+gcc -o matmult main.o matmult.o
+./matmult
+
+The output is
+
+Matrix A is :
+  0   1   2 
+  1   2   3 
+  2   3   4 
+  3   4   5 
+  4   5   6 
+Matrix B is :
+  0  -1  -2  -3 
+  1   0  -1  -2 
+  2   1   0  -1 
+Matrix multiplication is: 
+  5   2  -1  -4 
+  8   2  -4 -10 
+ 11   2  -7 -16 
+ 14   2 -10 -22 
+ 17   2 -13 -28
