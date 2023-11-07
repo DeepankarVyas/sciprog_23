@@ -1,0 +1,10 @@
+The command to run the file is 
+gcc -Wall -lm -o practical7 practical7.c
+
+The output is
+
+Enter required polynomial order
+15
+The estimated value of e^15 using Taylor series is 2.718282
+Actual value of e^15 is 2.718282
+The difference between estimated and actual values is 0.000000
