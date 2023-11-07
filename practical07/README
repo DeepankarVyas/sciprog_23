@@ -1,10 +1,28 @@
-The command to run the file is 
-gcc -Wall -lm -o practical7 practical7.c
+The command to run the files are 
 
-The output is
+gcc -Wall -lm -o practical7 practical7.c
+gcc -Wall -lm -o dynamicallocation dynamicallocation.c
+
+The output of the first one is:-
 
 Enter required polynomial order
 15
 The estimated value of e^15 using Taylor series is 2.718282
 Actual value of e^15 is 2.718282
 The difference between estimated and actual values is 0.000000
+
+
+The out put of the second one is:-
+
+Enter size of array
+10
+a[0] = 1
+a[1] = 1
+a[2] = 1
+a[3] = 1
+a[4] = 1
+a[5] = 1
+a[6] = 1
+a[7] = 1
+a[8] = 1
+a[9] = 1
