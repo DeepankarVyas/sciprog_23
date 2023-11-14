@@ -1,0 +1,12 @@
+The command to compile and run the file is:-
+
+gcc -Wall -o practical8 practical8.c
+
+
+the output is 
+
+Enter two integers
+5
+26
+The gcd using iterative is 1
+The gcd using recursive is 1
